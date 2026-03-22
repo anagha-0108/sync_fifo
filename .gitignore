@@ -1,0 +1,3 @@
+# simulation outputs
+simv simv.daidir/ csrc/ novas.conf novas.rc ucli.key verdiLog/ *.log
+*.key
